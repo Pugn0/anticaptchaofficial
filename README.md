@@ -1,1 +1,3 @@
 # anticaptchaofficial
+
+resolve texto
